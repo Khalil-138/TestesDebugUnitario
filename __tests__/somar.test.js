@@ -1,5 +1,5 @@
 import { describe, it, expect } from '@jest/globals'
-import {somar} from '../services/exercicios'
+import ServiceExercicio from '../src/services/exercicios'
 
 describe('Testando função somar',  () => {
 
